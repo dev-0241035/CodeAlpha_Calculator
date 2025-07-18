@@ -25,3 +25,5 @@ This project was developed as part of a **CodeAlpha Internship task** to demonst
 - **HTML5** – For semantic structure
 - **CSS3** – For styling, layout, and responsiveness
 - **JavaScript** – For functionality, event handling, and logic
+
+## 📸 Screenshot<img width="390" height="512" alt="calc" src="https://github.com/user-attachments/assets/4221c0ac-d1db-44c5-815d-6254cece9acd" />
